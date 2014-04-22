@@ -6,7 +6,7 @@ TacoCoin is an open source peer-to-peer crytocurrency.
 
 #What is TacoCoin?  
 
-#TacoCoin is like Bitcoin, but based on Litecoin. It is an scrypt based cryptocurrency.  
+TacoCoin is like Bitcoin, but based on Litecoin. It is an scrypt based cryptocurrency.  
 
 Why TacoCoin?  
 
