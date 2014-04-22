@@ -8,3 +8,8 @@ Why Tacocoin?
 
 Tacocoin was created to revolutionize the way that the world buys tacos.  
 
+Where can you find us?
+
+WWW: http://tacocoin.net/  
+Reddit: http://www.reddit.com/r/TaCoCoin/  
+Freenode: #tacocoin  
