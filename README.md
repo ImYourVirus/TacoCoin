@@ -1,15 +1,19 @@
-#Tacocoin [TAC]
+#TacoCoin [TAC]
 
-What is Tacocoin?  
+TacoCoin is an open source peer-to-peer crytocurrency.
 
-TacoCoin is like Bitcoin, but based on Litecoin. It is an scrypt based cryptocurrency.  
+![TacoCoin](http://tacocoin.net/TacocoinLogo.jpg)
 
-Why Tacocoin?  
+#What is TacoCoin?  
 
-Tacocoin was created to revolutionize the way that the world buys tacos.  
+#TacoCoin is like Bitcoin, but based on Litecoin. It is an scrypt based cryptocurrency.  
+
+Why TacoCoin?  
+
+#TacoCoin was created to revolutionize the way that the world buys tacos.  
 
 Where can you find us?
 
-WWW: http://tacocoin.net/  
-Reddit: http://www.reddit.com/r/TaCoCoin/  
-Freenode: #tacocoin  
+WWW: http://TacoCoin.net/  
+Reddit: http://www.reddit.com/r/TacoCoin/  
+Freenode: #TacoCoin  
