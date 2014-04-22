@@ -1,4 +1,4 @@
-#TacoCoin [TAC]
+#TacoCoin [TCO]
 
 TacoCoin is an open source peer-to-peer crytocurrency.
 
