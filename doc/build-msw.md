@@ -84,6 +84,6 @@ Litecoin
 -------
 DOS prompt:
 
-	cd \litecoin\src
+	cd \tacocoin\src
 	mingw32-make -f makefile.mingw
-	strip litecoind.exe
+	strip tacocoind.exe

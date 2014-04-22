@@ -995,7 +995,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "litecoin";
+    const char* pszModule = "tacocoin";
 #endif
     if (pex)
         return strprintf(
@@ -1104,7 +1104,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "litecoind.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "tacocoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

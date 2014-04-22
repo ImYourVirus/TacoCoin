@@ -275,7 +275,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tacocoins from being stolen by malware infecting your computer.</source>
         <translation>TacoCoin va à présent se fermer pour terminer la procédure de cryptage. N&apos;oubliez pas que le chiffrement de votre porte-monnaie ne peut pas fournir une protection totale contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@ Adresse : %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start tacocoin: click-to-pay handler</source>
         <translation>Impossible de démarrer TacoCoin : gestionnaire de cliquer-pour-payer</translation>
     </message>
 </context>
@@ -2197,7 +2197,7 @@ Adresse : %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
+        <source>Send command to -server or tacocoind</source>
         <translation>Envoyer une commande à -server ou à TacoCoind</translation>
     </message>
     <message>
@@ -2217,12 +2217,12 @@ Adresse : %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
+        <source>Specify configuration file (default: tacocoin.conf)</source>
         <translation>Spécifier le fichier de configuration (par défaut : TacoCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
+        <source>Specify pid file (default: tacocoind.pid)</source>
         <translation>Spécifier le fichier PID (par défaut : TacoCoind.pid)</translation>
     </message>
     <message>
@@ -2300,7 +2300,7 @@ Adresse : %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=litecoinrpc
+rpcuser=tacocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2311,7 +2311,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
         <translation>%s, vous devez définir un mot de passe rpc dans le fichier de configuration : 
 %s
 Il vous est conseillé d&apos;utiliser le mot de passe aléatoire suivant :
-rpcuser=litecoinrpc
+rpcuser=tacocoinrpc
 rpcpassword=%s
 (vous n&apos;avez pas besoin de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe NE DOIVENT PAS être identiques.

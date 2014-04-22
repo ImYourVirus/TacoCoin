@@ -275,7 +275,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tacocoins from being stolen by malware infecting your computer.</source>
         <translation>Şifreleme işlemini tamamlamak için TacoCoin şimdi kapanacaktır. Cüzdanınızı şifrelemenin, TacoCoinlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start tacocoin: click-to-pay handler</source>
         <translation>TacoCoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
 </context>
@@ -2197,7 +2197,7 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
+        <source>Send command to -server or tacocoind</source>
         <translation>-server ya da TacoCoind&apos;ye komut gönder</translation>
     </message>
     <message>
@@ -2217,12 +2217,12 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
+        <source>Specify configuration file (default: tacocoin.conf)</source>
         <translation>Yapılandırma dosyası belirt (varsayılan: TacoCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
+        <source>Specify pid file (default: tacocoind.pid)</source>
         <translation>Pid dosyası belirt (varsayılan: TacoCoind.pid)</translation>
     </message>
     <message>
@@ -2300,7 +2300,7 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=litecoinrpc
+rpcuser=tacocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2311,7 +2311,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
         <translation>%s, şu yapılandırma dosyasında rpc parolası belirtmeniz gerekir:
 %s
 Aşağıdaki rastgele oluşturulan parolayı kullanmanız tavsiye edilir:
-rpcuser=litecoinrpc
+rpcuser=tacocoinrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekli değildir)
 Kullanıcı ismi ile parolanın FARKLI olmaları gerekir.

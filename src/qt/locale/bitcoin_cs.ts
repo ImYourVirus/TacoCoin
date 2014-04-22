@@ -275,7 +275,7 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tacocoins from being stolen by malware infecting your computer.</source>
         <translation>TacoCoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých TacoCoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
@@ -1069,7 +1069,7 @@ Adresa: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start tacocoin: click-to-pay handler</source>
         <translation>Nemůžu spustit TacoCoin: obsluha click-to-pay</translation>
     </message>
 </context>
@@ -2197,7 +2197,7 @@ Adresa: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
+        <source>Send command to -server or tacocoind</source>
         <translation>Poslat příkaz pro -server nebo TacoCoind</translation>
     </message>
     <message>
@@ -2217,12 +2217,12 @@ Adresa: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
+        <source>Specify configuration file (default: tacocoin.conf)</source>
         <translation>Konfigurační soubor (výchozí: TacoCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
+        <source>Specify pid file (default: tacocoind.pid)</source>
         <translation>PID soubor (výchozí: TacoCoind.pid)</translation>
     </message>
     <message>
@@ -2300,7 +2300,7 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=litecoinrpc
+rpcuser=tacocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2311,7 +2311,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=litecoinrpc
+rpcuser=tacocoinrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.

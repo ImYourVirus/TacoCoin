@@ -4543,7 +4543,7 @@ void static LitecoinMiner(CWallet *pwallet)
 {
     printf("TacoCoinMiner:\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("litecoin-miner");
+    RenameThread("tacocoin-miner");
 
     // Each thread has its own key and counter
     CReserveKey reservekey(pwallet);
