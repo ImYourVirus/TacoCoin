@@ -30,7 +30,7 @@ Unpack the files into a directory and run:
 - bin/64/tacocoin-qt (GUI, 64-bit)
 - bin/64/tacocoind (headless, 64-bit)
 
-See the documentation at the [Litecoin Wiki](http://tacocoin.info)
+See the documentation at the [Litecoin Wiki](http://tacocoin.net)
 for help and more information.
 
 
